@@ -1,0 +1,5 @@
+{
+  "name": "NanoGen Pro - Image Studio",
+  "description": "Generate high-quality images using the Gemini 3 Pro (Nano Banana Pro) model with customizable safety settings.",
+  "requestFramePermissions": []
+}
